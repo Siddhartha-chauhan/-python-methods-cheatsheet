@@ -5,7 +5,7 @@ Perfect for beginners and developers who want a clean, practical guide.
 
 ---
 
-## 🔢 Array (List) Methods
+## 🔢 List Methods
 
 > Lists in Python work as dynamic arrays.
 
@@ -118,6 +118,17 @@ print(person)  # {'name': 'Siddhartha', 'age': 21, 'city': 'Delhi'}
 ```
 
 ---
+
+
+---
+
+## 📚 References
+
+- Content and method summaries generated with assistance from ChatGPT.  
+- Additional examples and explanations adapted using Grok.  
+- Tutorial: Apna College – “Python List, String & Dictionary Methods” (YouTube).  
+  Available at: https://www.youtube.com/watch?v=ERCMXc8x7mc&list=PLG-efSW9nTTFzBHA81Oxq2iDM17NUkoUQ  
+
 
 📚 **Author:** Siddhartha Chauhan  
 📅 **Updated:** 2025  
