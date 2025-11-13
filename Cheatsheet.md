@@ -114,7 +114,7 @@ print(text.title())  # Hello World
 # Dictionary Example
 person = {'name': 'Siddhartha', 'age': 22}
 person.update({'city': 'Noida'})
-print(person)  # {'name': 'Siddhartha', 'age': 21, 'city': 'Delhi'}
+print(person)  # {'name': 'Siddhartha', 'age': 22, 'city': 'Noida'}
 ```
 
 ---
